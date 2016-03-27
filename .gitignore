@@ -1,0 +1,14 @@
+# directory #
+build
+dist
+nbproject
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Files #
+build.xml
+manifest.mf
+config.properties
